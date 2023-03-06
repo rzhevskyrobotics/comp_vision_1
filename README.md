@@ -1,6 +1,8 @@
 # Some Important Text
 
-<img title="" src="nonna.jpg?raw=true" alt="" data-align="center" width="164">
+<p>
+    <img align="center" src="nonna.jpg">
+</p>
 
 Some Simple Text
 
