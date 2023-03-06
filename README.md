@@ -1,4 +1,4 @@
-## ITMO Computer Vision Couse 2022
+## ITMO Computer Vision Course 2022
 
 ---
 
