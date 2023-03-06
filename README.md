@@ -1,6 +1,6 @@
 # Some Important Text
 
-<img title="" src="file:///home/master/.config/marktext/images/2023-03-06-13-00-31-nonna.jpg" alt="" data-align="center" width="164">
+<img title="" src="nonna.jpg?raw=true" alt="" data-align="center" width="164">
 
 Some Simple Text
 
